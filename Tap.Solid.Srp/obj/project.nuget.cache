@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hG1fLYIhNDuF9K8dM1jzfs+cRC2lLpuXXOQYlYofqWfrAGWY1v9m9kLidwC75bjUl287bvOggOCSIWP/6d20xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cosmin\\Desktop\\L3-Tap\\Tap.Solid\\Tap.Solid.Srp\\Tap.Solid.Srp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cosmin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Cosmin\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.2\\microsoft.data.sqlite.core.6.0.2.nupkg.sha512",
+    "C:\\Users\\Cosmin\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Cosmin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
